@@ -42,7 +42,7 @@ The chatbot relies entirely on carefully designed prompts and a curated knowledg
 # Project Structure
 
 ```
-DomainChatbot/
+university_chatbot/
 │
 ├── app.py
 ├── chatbot.py
@@ -186,7 +186,7 @@ git clone https://github.com/yourusername/DomainChatbot.git
 Move into the project directory.
 
 ```
-cd DomainChatbot
+cd university_chatbot
 ```
 
 Install dependencies.
